@@ -22,7 +22,9 @@ https://themeforest.net
 Bra för att se hur andra byggt appar och plugins: 
 https://codecanyon.net
 
-
+Literatur:
+Title: Don't Make Me Think
+Författare: Steve Krug 
 
 
 
