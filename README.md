@@ -14,4 +14,16 @@ Gör sedan mockupen i Adobe XD eller Google Presentation, tänk UI.
 Om ni hinner ska ni även göra en skiss på blocken (Kommer ni ihåg Block, Container, element) 
 
 
+Fick några länkar från Elve för inspiration:
+
+Bra för att se hur andra byggt hemsidor:
+https://themeforest.net
+
+Bra för att se hur andra byggt appar och plugins: 
+https://codecanyon.net
+
+
+
+
+
 
